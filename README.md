@@ -16,9 +16,9 @@ Esta no es una guía, por favor consulte [Dortania](https://dortania.github.io/g
 
 <img src="assets/sonoma.png">
     
-## :computer: Hardware:
+## :Hardware: Especificaciones:
 
-| **Componentes** | **Especificaciones**               |
+| **Hardware** | **Especificaciones**                  |
 | ------------ | ------------------------------------- |
 | **CPU**      | 1.6GHz Intel Core i5-8250U            |
 | **GPU**      | Intel UHD 620                         |
@@ -30,23 +30,23 @@ Esta no es una guía, por favor consulte [Dortania](https://dortania.github.io/g
 | **Audio**    | Realtek ALC230 (layout-id=20)         |
 | **Input**    | PS2 Keyboard & ELAN TrackPad          |
 
-## :white_check_mark: Working:
+## :white_check_mark: Trabajando:
 
-- [x] CPU power management.
-- [x] Graphics acceleration.
-- [x] Battery read-out.
-- [x] Keyboard & trackpad with all macOS gestures.
+- [x] Gestión de la energía de la CPU.
+- [x] Aceleración de los gráficos.
+- [x] Lectura de la batería.
+- [x] Teclado y trackpad con todos los gestos de macOS.
 - [x] Wi-Fi.
 - [x] Bluetooth.
-- [x] USB ports.
-- [x] HDMI video & audio output.
+- [x] Puertos USB.
+- [x] Salida de vídeo y audio HDMI.
 - [x] Ethernet.
-- [x] Audio (Internal speakers, 3.5mm headphone jack).
-- [x] Internal microphone.
-- [x] VGA WebCam.
-- [ ] AirDrop & Handoff.
-- [x] iCloud & App Store.
-- [x] iMessage & FaceTime.
+- [x] Audio (altavoces internos, conector para auriculares de 3,5 mm).
+- [x] Micrófono interno.
+- [x] Cámara web VGA.
+- [ ] AirDrop y Handoff.
+- [x] iCloud y App Store.
+- [x] iMessage y FaceTime.
 
 ## :x: Not working:
 

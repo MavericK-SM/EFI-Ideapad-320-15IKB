@@ -16,7 +16,7 @@ Esta no es una guía, por favor consulte [Dortania](https://dortania.github.io/g
 
 <img src="assets/sonoma.png">
     
-## :Hardware: Especificaciones:
+## :computer: Hardware:
 
 | **Hardware** | **Especificaciones**                  |
 | ------------ | ------------------------------------- |
@@ -44,19 +44,20 @@ Esta no es una guía, por favor consulte [Dortania](https://dortania.github.io/g
 - [x] Audio (altavoces internos, conector para auriculares de 3,5 mm).
 - [x] Micrófono interno.
 - [x] Cámara web VGA.
-- [ ] AirDrop y Handoff.
+- [ ] AirDrop
+- [x] Handoff.
 - [x] iCloud y App Store.
 - [x] iMessage y FaceTime.
 
-## :x: Not working:
+## :x: No funciona:
 
-Only AirDrop and Handoff are not working since the Intel card are not fully compatible with macOS. To make these things works you need to replace with a native card one, like the Fenvi cards.
+Solo AirDrop no funcionan, ya que la tarjeta Intel no es totalmente compatible con macOS. Para que esto funcione, debes reemplazar la tarjeta Wi-Fi por una tarjeta nativa, como la BCM94360NG.
 
-For Wifi Connection you can install Heliport.Due to its faster connection and speed I've replaced it with Airport.
+Para la conexión Wi-Fi en Sonoma, puedes instalar Heliport. Debido a su conexión y velocidad más rápidas, lo he reemplazado por Airport.
 
-For Ethernet you can use USB Ethernets too!
+¡Para Ethernet también puedes usar Ethernet USB!
 
-## BIOS setup:
+## Configuración de la BIOS:
 
 - Security / Intel Platform Trust Technology - Disabled
 - Security / Intel SGX - Disabled
@@ -64,7 +65,7 @@ For Ethernet you can use USB Ethernets too!
 - Boot / Boot Mode - UEFI
 
 
-## Credits:
+## Créditos:
 
 [**Apple**](http://apple.com/)
 

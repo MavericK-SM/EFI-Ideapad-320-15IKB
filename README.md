@@ -1,5 +1,5 @@
 # Lenovo Ideapad 320-15IKB
-EFI para Lenovo Ideapad 320-15IKB (81BG Type)
+EFI para Lenovo Ideapad 320-15IKB (81BG)
 
 :information_source: **La versión actual es totalmente compatible con macOS en función del hardware de mi laptop.**
 ¡OpenCore, drivers y kexts están actualizados a la versión 1.0.0!

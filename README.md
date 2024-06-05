@@ -53,7 +53,7 @@ Esta no es una guía, por favor consulte [Dortania](https://dortania.github.io/g
 
 Solo AirDrop no funcionan, ya que la tarjeta Intel no es totalmente compatible con macOS. Para que esto funcione, debes reemplazar la tarjeta Wi-Fi por una tarjeta nativa, como la BCM94360NG.
 
-Para la conexión Wi-Fi en Sonoma, puedes instalar Heliport. Debido a su conexión y velocidad más rápidas, lo he reemplazado por Airport.
+Para la conexión Wi-Fi en Sonoma, puedes instalar Heliport. Debido a su conexión y velocidad más rápidas, he reemplazado por AirportItlwm por Itlwm.
 
 ¡Para Ethernet también puedes usar Ethernet USB!
 
@@ -70,5 +70,3 @@ Para la conexión Wi-Fi en Sonoma, puedes instalar Heliport. Debido a su conexi�
 [**Apple**](http://apple.com/)
 
 [**Dortania**](https://dortania.github.io/getting-started/)
-
-[**Milad Tahanian**](https://github.com/mtahanian)
